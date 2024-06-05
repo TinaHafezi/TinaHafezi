@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinaHafezi
 - 👀 I’m interested in debuging and learning new tricks
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently deep learning 
 - 💞️ I’m looking to collaborate on python mini projects 
 - 📫 tinapayno2@gmail.com
 - 😄 Pronouns: they/them
